@@ -1,1 +1,1 @@
-https://github.com/GermanZiatdinov?tab=repositories
+https://github.com/GermanZiatdinov/first-project

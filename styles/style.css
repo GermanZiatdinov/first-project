@@ -160,7 +160,7 @@
 .rectangle_title {
     text-decoration-line: underline;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #fff;
     font-size: 22px;
     font-weight: 700;
     line-height: 120%;
@@ -272,7 +272,26 @@
     font-style: normal;
     padding-left: 0px;
 }
-.footerimages2 {
+.footerinfo {
     display: flex;
-    gap: 48px;
+    width: 240px;
+    height: 48px;
+    list-style: none;
+    justify-self: center;
+    justify-content: space-between;
+}
+.youtube {
+    width: 48px;
+    height: 48px;
+    background-image: url(../images/yt.svg);
+}
+.vkontakte {
+    width: 48px;
+    height: 48px;
+    background-image: url(../images/vk.svg);
+}
+.pinterest {
+    width: 48px;
+    height: 48px;
+    background-image: url(../images/pinterest.svg);
 }
